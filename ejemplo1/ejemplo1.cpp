@@ -19,9 +19,10 @@ void ejemplo1::doButton()
 	
 }
 void ejemplo1::StartButton()
-{   
-	 connect(timer,SIGNAL(timeout()),this,SLOT(doButton()));
-	 timer->start(1000);
+{    
+	timer=new QTimer(this);
+	timer->start(1000);
+	connect(timer,SIGNAL(timeout()),this,SLOT(doButton()));
 }
 void ejemplo1::StopButton(){
 	timer->stop();

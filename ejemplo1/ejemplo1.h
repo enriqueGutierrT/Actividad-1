@@ -10,7 +10,7 @@ class ejemplo1 : public QWidget, public Ui_Counter
 Q_OBJECT
 public:
     ejemplo1();
-    QTimer *timer=new QTimer(this);
+    QTimer *timer;
     int x=0;
     virtual ~ejemplo1();
     
