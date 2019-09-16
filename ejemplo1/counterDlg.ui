@@ -16,10 +16,23 @@
   <widget class="QPushButton" name="button">
    <property name="geometry">
     <rect>
-     <x>80</x>
+     <x>40</x>
      <y>180</y>
-     <width>251</width>
-     <height>71</height>
+     <width>125</width>
+     <height>40</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>START</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="button_stop">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>180</y>
+     <width>125</width>
+     <height>40</height>
     </rect>
    </property>
    <property name="text">
