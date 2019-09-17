@@ -1,0 +1,7 @@
+/home/n00b_user/Universidad/Robotica/qtEjemplo/ejemplo1/CMakeFiles/install/strip.dir
+/home/n00b_user/Universidad/Robotica/qtEjemplo/ejemplo1/CMakeFiles/edit_cache.dir
+/home/n00b_user/Universidad/Robotica/qtEjemplo/ejemplo1/CMakeFiles/ejemplo1.dir
+/home/n00b_user/Universidad/Robotica/qtEjemplo/ejemplo1/CMakeFiles/rebuild_cache.dir
+/home/n00b_user/Universidad/Robotica/qtEjemplo/ejemplo1/CMakeFiles/list_install_components.dir
+/home/n00b_user/Universidad/Robotica/qtEjemplo/ejemplo1/CMakeFiles/install/local.dir
+/home/n00b_user/Universidad/Robotica/qtEjemplo/ejemplo1/CMakeFiles/install.dir
